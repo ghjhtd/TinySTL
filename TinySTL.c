@@ -1,10 +1,13 @@
-/*
+/**
  * @Author: gong hao jing
  * @Date: 2021-08-22 01:10:08
  * @LastEditTime: 2021-08-25 15:00:35
  * @LastEditors: Please set LastEditors
  * @Description: 这是一个c语言数据结构库的简单实现
- * @FilePath: \TinySTL\TinySTL.c
+ * @Github: https://github.com/ghjhtd/TinySTL.git
+ * @Description: 
+ * 该库采用了类似高级语言oop的程序设计思想，为方便在
+ * 嵌入式设备上使用，对常用的数据结构进行了简单的实现
  */
 
 #include "TinySTL.h" 
