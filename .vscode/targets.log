@@ -7,9 +7,8 @@ make: *** No rule to make target 'all'.  Stop.
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
- 
 
-# Make data base, printed on Thu Aug 26 16:27:58 2021
+# Make data base, printed on Fri Aug 27 16:11:31 2021
 
 # Variables
 
@@ -30,7 +29,7 @@ MKL_SERIAL = YES
 # environment
 LOCALAPPDATA = C:\Users\13440\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ed876179-4844-429a-b466-6a35eba60e57-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-d8ac2b0e-2231-43f5-9f30-0e427508e6e6-sock
 # environment
 VSCODE_CWD = C:\Users\13440\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -48,11 +47,11 @@ MAKE_COMMAND := make
 # environment
 PATH1 = C:\Program Files (x86)\STMicroelectronics\st_toolset\asm;C:\Python\Scripts\;C:\Python\;"C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Matlab2018\runtime\win64;D:\Matlab2018\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64;C:\Program Files\NVIDIA Corporation\NVSMI;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\nodejs\;D:\nodejs\node_global\node_modules;D:\nodejs\node_global;C:\MinGW\bin;C:\WINDOWS\System32\OpenSSH\
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_18272_EAKTHVIAXYINWGJW
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13276_YDPCUFTOCPJSHOLH
 # environment
 VSCODE_BROWSER_CODE_LOADING = bypassHeatCheck
 # environment
-!E: = e:\c_Program\TinySTL
+!E: = e:\Demo\TinySTL
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -86,7 +85,7 @@ MAKEFLAGS = pqrR
 # environment
 ONEDRIVE = C:\Users\13440\OneDrive
 # makefile
-CURDIR := /cygdrive/e/c_Program/TinySTL
+CURDIR := /cygdrive/e/Demo/TinySTL
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -112,7 +111,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 18272
+VSCODE_PID = 13276
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
@@ -141,6 +140,8 @@ SHELL := /bin/sh
 CLASSPATH = .;C:\Program Files\Java\jdk1.8.0_181\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_181\lib\tools.jar;
 # environment
 HOMEPATH = \Users\13440
+# environment
+PLATFORMIO_CALLER = vscode
 # default
 MAKECMDGOALS := all
 # environment
@@ -186,6 +187,8 @@ ADSK_CLM_WPAD_PROXY_CHECK = FALSE
 # environment
 PROGRAMW6432 = C:\Program Files
 # environment
+NO_PROXY = 127.0.0.1
+# environment
 PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # automatic
 +F = $(notdir $+)
@@ -197,6 +200,8 @@ USERDOMAIN = IMMORTAL
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+PLATFORMIO_PATH = C:\Users\13440\.platformio\python3;D:\mingw64\bin;D:\Vmware16\bin\;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\STMicroelectronics\st_toolset\asm;C:\Python\Scripts\;C:\Python\;"C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Common Files\Autodesk Shared\;D:\Matlab2018\runtime\win64;D:\Matlab2018\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64;C:\Program Files\NVIDIA Corporation\NVSMI;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\nodejs\;D:\nodejs\node_global\node_modules;D:\nodejs\node_global;C:\WINDOWS\System32\OpenSSH\;D:\Esp-tools\.espressif\tools\xtensa-esp32s2-elf\esp-2020r3-8.4.0\xtensa-esp32s2-elf\bin;D:\Esp-tools\.espressif\tools\xtensa-esp32-elf\esp-2020r3-8.4.0\xtensa-esp32-elf\bin;D:\Esp-tools\.espressif\tools\openocd-esp32\v0.10.0-esp32-20200709\openocd-esp32\bin;D:\Esp-tools\.espressif\tools\ninja\1.10.0;D:\Esp-tools\.espressif\tools\idf-exe\1.0.1;D:\Esp-tools\.espressif\tools\esp32ulp-elf\2.28.51-esp-20191205\esp32ulp-elf-binutils\bin;D:\Esp-tools\.espressif\tools\esp32s2ulp-elf\2.28.51-esp-20191205\esp32s2ulp-elf-binutils\bin;D:\Esp-tools\.espressif\tools\dfu-util\0.9\dfu-util-0.9-win64;D:\Esp-tools\.espressif\tools\cmake\3.16.4\bin;D:\Esp-tools\.espressif\tools\ccache\3.7;D:\Esp-tools\.espressif\python_env\idf4.2_py3.7_env\Scripts;D:\Esp-idf;;D:\Esp-tools\.espressif\python_env\idf4.2_py3.7_env\Scripts;D:\SqlServer\Sql\130\Tools\Binn\;D:\SqlServer\Sql Server\130\Tools\Binn\;D:\SqlServer\Sql\130\DTS\Binn\;D:\SqlServer\Sql Server\130\DTS\Binn\;D:\SqlServer\Sql Server\Client SDK\ODBC\130\Tools\Binn\;D:\SqlServer\Sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;D:\Make\bin;C:\Python\Scripts\;C:\Python\;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;C:\Users\13440\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Program Files\Bandizip\;C:\Users\13440\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;;C:\Users\13440\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;C:\Users\13440\AppData\Local\Programs\Microsoft VS Code\bin;D:\DriverGenius;D:\DriverGenius\ksoft;D:\mingw64\bin;D:\Vmware16\bin\;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\STMicroelectronics\st_toolset\asm;C:\Python\Scripts\;C:\Python\;"C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin";C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Common Files\Autodesk Shared\;D:\Matlab2018\runtime\win64;D:\Matlab2018\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64;C:\Program Files\NVIDIA Corporation\NVSMI;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\nodejs\;D:\nodejs\node_global\node_modules;D:\nodejs\node_global;C:\WINDOWS\System32\OpenSSH\;D:\Esp-tools\.espressif\tools\xtensa-esp32s2-elf\esp-2020r3-8.4.0\xtensa-esp32s2-elf\bin;D:\Esp-tools\.espressif\tools\xtensa-esp32-elf\esp-2020r3-8.4.0\xtensa-esp32-elf\bin;D:\Esp-tools\.espressif\tools\openocd-esp32\v0.10.0-esp32-20200709\openocd-esp32\bin;D:\Esp-tools\.espressif\tools\ninja\1.10.0;D:\Esp-tools\.espressif\tools\idf-exe\1.0.1;D:\Esp-tools\.espressif\tools\esp32ulp-elf\2.28.51-esp-20191205\esp32ulp-elf-binutils\bin;D:\Esp-tools\.espressif\tools\esp32s2ulp-elf\2.28.51-esp-20191205\esp32s2ulp-elf-binutils\bin;D:\Esp-tools\.espressif\tools\dfu-util\0.9\dfu-util-0.9-win64;D:\Esp-tools\.espressif\tools\cmake\3.16.4\bin;D:\Esp-tools\.espressif\tools\ccache\3.7;D:\Esp-tools\.espressif\python_env\idf4.2_py3.7_env\Scripts;D:\Esp-idf;;D:\Esp-tools\.espressif\python_env\idf4.2_py3.7_env\Scripts;D:\SqlServer\Sql\130\Tools\Binn\;D:\SqlServer\Sql Server\130\Tools\Binn\;D:\SqlServer\Sql\130\DTS\Binn\;D:\SqlServer\Sql Server\130\DTS\Binn\;D:\SqlServer\Sql Server\Client SDK\ODBC\130\Tools\Binn\;D:\SqlServer\Sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;D:\Make\bin;C:\Python\Scripts\;C:\Python\;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;C:\Users\13440\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;C:\Program Files\Bandizip\;C:\Users\13440\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;;C:\Users\13440\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;C:\Users\13440\AppData\Local\Programs\Microsoft VS Code\bin;D:\DriverGenius;D:\DriverGenius\ksoft
 # makefile
 .DEFAULT_GOAL := default
 # default
@@ -223,6 +228,8 @@ NODE_PATH = D:\nodejs\node_global\node_modules
 PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+PLATFORMIO_IDE = 2.3.3
 # environment
 HOME = /home/13440
 # environment
@@ -256,7 +263,7 @@ PROCESSOR_REVISION = 5e03
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
 # variable set hash-table stats:
-# Load=121/1024=12%, Rehash=0, Collisions=12/148=8%
+# Load=125/1024=12%, Rehash=0, Collisions=14/152=9%
 
 # Pattern-specific Variable Values
 
@@ -264,7 +271,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
 
 # Directories
 
-# . (device 4150639599, inode 13229323905430249): 13 files, no impossibilities.
+# . (device 4150639599, inode 1970324837023887): 13 files, no impossibilities.
 
 # 13 files, no impossibilities in 1 directories.
 
@@ -348,6 +355,6 @@ TinySTL.c:
 # strcache performance: lookups = 31 / hit rate = 38%
 # hash-table stats:
 # Load=19/8192=0%, Rehash=0, Collisions=0/31=0%
-# Finished Make data base on Thu Aug 26 16:27:58 2021
+# Finished Make data base on Fri Aug 27 16:11:31 2021
 
  
