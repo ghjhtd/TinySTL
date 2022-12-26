@@ -129,3 +129,4 @@ map_ptr->push(map_ptr, 1, 0, "hello", 10);
  List* values(Map* map);                                                                        //返回map的值集合，返回类型是一个链表集合
  List* keySet(Map* map);                                                                        //返回map的键值集合，返回类型是一个链表集合
  int delete(Map* map);                                                                          //删除map集合
+ 
